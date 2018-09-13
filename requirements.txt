@@ -1,0 +1,5 @@
+tensorflow-gpu==1.4
+progressbar2
+tqdm
+opencv-python
+matplotlib
