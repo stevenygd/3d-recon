@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Preparation
 
-Please use the following Google Drive link to download the datasets: [[drive]](https://drive.google.com/drive/folders/0B2yRgy7ZPduZMlFLSExiR0FWNzQ?usp=sharing). There are two files : `data.tar.gz` and `ShapeNetVox32.tar.gz`. Please download both of them and uncompressed it into the project root directory:
+Please use the following Google Drive link to download the datasets: [[drive]](https://drive.google.com/drive/folders/13mokTHTuHOLKnztVv1PKjBpdIEGaUqWv?usp=sharing). There are two files : `data.tar.gz` and `ShapeNetVox32.tar.gz`. Please download both of them and uncompressed it into the project root directory:
 ```bash
 tar -xvf ShapeNetVox32.tar.gz
 tar -xvf data.tar.gz
